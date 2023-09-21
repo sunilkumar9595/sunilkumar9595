@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilkumar9595
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on evolving technologies
 - 📫 How to reach me ...
 
